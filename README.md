@@ -10,6 +10,12 @@ sudo pip install pyside
 ```bash
 sudo pip install easygui
 ```
+```bash
+sudo pip install scipy
+```
+```bash
+sudo pip install matplotlib
+```
 After that you could add this git to the freeCAD modules path.
 
 #### features
