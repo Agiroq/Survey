@@ -20,6 +20,10 @@ After that you could add this git to the freeCAD modules path.
 
 #### features
 This is a personal project and is in a very unestable state, but the way, at the moment it's able to 
- * import a point cloud with codes
- * creat break lines with selected codes 
- * triangulate it to make a mesh
+- [x] import a point cloud with codes
+- [x] create break lines with selected codes 
+- [x] triangulate it to make a mesh
+- [x] add triangulate with breaklines
+- [ ] create a baseline 
+- [ ] create profile view
+- [ ] create clotoide
